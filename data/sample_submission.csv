@@ -1,5 +1,5 @@
-image_id,is_male,left_eye_x,left_eye_y,right_eye_x,right_eye_y,nose_x,nose_y,mouth_left_x,mouth_left_y,mouth_right_x,mouth_right_y
-3000.jpg,-1,152,198,233,195,192,235,157,264,227,262
+image_id,is_male
+3000.jpg,-1,
 3001.jpg,,,,,,,,,,,
 3002.jpg,,,,,,,,,,,
 3003.jpg,,,,,,,,,,,
